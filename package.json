@@ -10,8 +10,8 @@
         "url": "https://github.com/underdarkskies/node-x16r.git"
     },
     "dependencies": {
-        "bindings": "^1.3.0",
-        "nan": "^2.6.2"
+        "bindings": "1.5.0",
+        "nan": "2.14.0"
     },
     "keywords": [
         "x16r"
